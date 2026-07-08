@@ -518,9 +518,11 @@ h1, h2, h3 {
   .hero { padding: 72px 0 60px; }
   .ledger-step { grid-template-columns: 44px 1fr; }
 }
+
 .module-visual img {
   width: 100%;
   aspect-ratio: 4/5;
   object-fit: cover;
   border-radius: 10px;
+}
 }
